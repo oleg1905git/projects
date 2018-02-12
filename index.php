@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>1st commit</title>
+	<title>Но-Но-Но!</title>
 </head>
 <body>
 
